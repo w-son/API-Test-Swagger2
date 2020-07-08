@@ -14,7 +14,7 @@
 - Springfox Swagger2
 
 ## 주소
-ec2-18-237-61-191.us-west-2.compute.amazonaws.com
+<ec2-18-237-61-191.us-west-2.compute.amazonaws.com>
 
 ## 배포
 
