@@ -1,8 +1,8 @@
 # API Test Swagger2
 
-Swagger2를 활용해 API를 테스트 해볼 수 있는 서버입니다
-oauth2 토큰 발급을 통한 인증/인가
-BFF, Raw 데이터 조회 및 수정 테스트
+* Swagger2를 활용해 API를 테스트 해볼 수 있는 서버입니다
+* oauth2 토큰 발급을 통한 인증/인가
+* BFF, Raw 데이터 조회 및 수정 테스트
 
 ## 프로젝트 환경
 
@@ -15,7 +15,6 @@ BFF, Raw 데이터 조회 및 수정 테스트
 
 ## 주소
 ec2-18-237-61-191.us-west-2.compute.amazonaws.com
-
 
 ## 배포
 
